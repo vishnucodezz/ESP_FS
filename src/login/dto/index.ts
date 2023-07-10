@@ -10,8 +10,8 @@ export default class LoginDTO{
     @IsString()
     private email : string;
 
-    @IsString()
-    private role : string;
+   /* @IsString()
+    private role : string;*/
 
 
 
